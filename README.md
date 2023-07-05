@@ -1,5 +1,8 @@
-# Java-Maze-Solver
+# Java-Maze-Generator-&-Solver
 
-Java 2D Maze Solver Using Recursion
+Iterative and Recursive Solutions
 
-Designed for recursion assignment of ICS4UE (AP Computer Science 11)
+Brute Force Algorithm:  Backtracking Algorithm
+Greedy Algorithm:       Dijkstra's Algorithm
+
+Designed for Recursion Assignment of ICS4UE (AP Computer Science 12)
